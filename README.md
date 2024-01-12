@@ -17,9 +17,9 @@ and also web development with React.
 
 <div style="display: flex; max-width: 100%; gap: 6px">
 
-<img style="max-width: calc(55% - 3px)" src="https://github-readme-stats.vercel.app/api?username=Martan03&show_icons=true&hide=&count_private=true&title_color=04f9dd&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Martan03's GitHub stats" />
+<img style="max-width: calc(55% - 3px)" src="https://github-readme-stats.vercel.app/api?username=Martan03&show_icons=true&hide=&count_private=true&title_color=04f9dd&text_color=ffffff&icon_color=0891b2&bg_color=21262d&hide_border=true&show_icons=true" alt="Martan03's GitHub stats" />
 
 
-<img style="max-width: calc(45% - 3px)" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martan03&langs_count=10&title_color=04f9dd&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&layout=compact" alt="Top Languages" />
+<img style="max-width: calc(45% - 3px)" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martan03&langs_count=10&title_color=04f9dd&text_color=ffffff&icon_color=0891b2&bg_color=21262d&hide_border=true&locale=en&layout=compact" alt="Top Languages" />
 
 </div>
